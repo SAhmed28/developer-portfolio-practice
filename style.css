@@ -56,6 +56,7 @@ body{
 }
 .experience h2{
     font-size: 40px;
+    padding-left: 5%;
 }
 
 .experience #full-stack, #baby-web{
